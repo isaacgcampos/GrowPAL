@@ -1,0 +1,9 @@
+aegon==1.3.6
+ase==3.27.0
+dscribe==2.1.2
+joblib==1.5.3
+molsympy==0.1.0
+numba==0.63.1
+numpy==2.3.5
+scikit-learn==1.8.0
+scipy==1.17.0
